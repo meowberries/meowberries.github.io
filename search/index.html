@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "搜索"
+search_omit: true
+sitemap: false
+author_profile: true
+---
+
+<!-- Search form -->
+<form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
+  <label for="q">在 {{ site.title }} 搜索:</label>
+  <input type="search" name="q" id="q" placeholder="What are you looking for?" data-search-input id="goog-wm-qt" autofocus />
+  <input type="submit" value="搜索" id="goog-wm-sb" />
+</form>
+
+<!-- Search results placeholder -->
+<h6 data-search-found>
+  搜索 &ldquo;<span data-search-found-term></span>&rdquo; 得到 <span data-search-found-count></span> 个结果.
+</h6>
+<ul class="post-list" data-search-results></ul>
+
+<!-- Search result template -->
+<script type="text/x-template" id="search-result">
+  <li><article>
+    <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
+  </article></li>
+</script>
+
+<!-- jQuery - required but can be moved to the <head> -->
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+ <!-- Search script - Must appear after template -->
+ <script src="/scripts/search.js"></script>
