@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "meowberries"
   avatar           : /assets/images/bio-photo.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "人类"
-  location         : "在找猫的路上"
+  bio              : "普通人类"
+  location         : "找猫的路上"
   email            :
   uri              :
   bitbucket        :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : “https://github.com/meowberries”
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
-  tumblr           :
+  tumblr           : "rouroufulcat.tumblr.com"
   twitter          :
   vine             :
   weibo            :

@@ -6,8 +6,6 @@ main:
     url: /year-archive/
   - title: "分类"
     url: /categories/
-  - title: "照片"
-    url: https://rouroufulcat.tumblr.com
   - title: "搜索"
     url: /search/
   # - title: "About"
