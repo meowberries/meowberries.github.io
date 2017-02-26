@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "草稿本"
+title                    : "Blog"
 title_separator          : "-"
 port                     : 5001
 name                     : "meowberries"
-description              : "啥也没有"
+description              : "nobody is walking around"
 url                      : "https://meowberries.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : meowberries/meowberries.github.io# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : “https://github.com/meowberries”
+  github           : meowberries
   google_plus      :
   keybase          :
   instagram        :
