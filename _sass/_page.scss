@@ -406,3 +406,13 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+body
+{
+background-image:
+url(/assets/images/note.png);
+background-position: left top;
+background-size: auto;
+background-repeat: repeat;
+background-attachment: scroll;
+}
