@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "Blog"
+title                    : "软软教教主的奇怪日常"
 title_separator          : "-"
 port                     : 5001
 name                     : "meowberries"
