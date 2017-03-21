@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "meowberries"
   avatar           : /assets/images/bio-photo.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "普通人类"
+  bio              : "重度猫奴"
   location         : "找猫的路上"
   email            :
   uri              :
@@ -240,7 +240,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single 
       author_profile: true
       read_time: true
       comments: true
