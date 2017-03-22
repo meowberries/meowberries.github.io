@@ -36,6 +36,7 @@
 }
 
 .site-title {
+  font-family: Georgia, Times,SentyTang,STXihei,serif;
   display: -webkit-box;
   display: flex;
   padding: 0.5rem 0;
@@ -43,7 +44,7 @@
   -webkit-box-align: center;
         align-items: center;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 32px;
   z-index: 20;
 }
 
