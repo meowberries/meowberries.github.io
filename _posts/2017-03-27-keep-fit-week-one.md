@@ -19,8 +19,23 @@ tags:
 
 
  - 3月20日 周一 哑铃家庭胸部塑形 哑铃家庭背部塑形 上肢拉伸
+
+偷懒没练 挪到了周日
+
  - 3月21日 周二 ~~慢跑30分钟~~
- - 3月22日 周三 核心功能入门 马甲线养成 躯干拉伸
+ <figure class="half">
+	<a href="https://68.media.tumblr.com/b70cfff2058d161e50cac5432141650a/tumblr_on738nxUmK1w1lq37o1_1280.png">
+  <img src="https://68.media.tumblr.com/b70cfff2058d161e50cac5432141650a/tumblr_on738nxUmK1w1lq37o1_1280.png">
+  </a>
+  <a href="https://68.media.tumblr.com/107ed84961cca0774cfdc7b4c8f48343/tumblr_on9l66QpqJ1w1lq37o1_1280.png">
+  <img src="https://68.media.tumblr.com/107ed84961cca0774cfdc7b4c8f48343/tumblr_on9l66QpqJ1w1lq37o1_1280.png">
+  </a>
+	<figcaption>和小软一起跑步~</figcaption>
+</figure>
+ - 3月22日 周三 ~~核心功能入门 马甲线养成~~ 躯干拉伸
+
+我也不懂。。我明明知道拉伸的各种好处。。。但还是给跳过了。。
+
  - 3月23日 周四 HIIT唤醒 哑铃家庭臀部塑形 下肢拉伸
  - 3月24日 周五 慢跑30分钟 哑铃性感手臂
  - 3月25日 周六 哑铃胸部训练 哑铃肩部塑形训练 上肢拉伸
@@ -32,4 +47,4 @@ tags:
 ## 饮食计划
 
 
-## 其他 
+## 其他
