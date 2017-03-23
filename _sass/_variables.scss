@@ -13,20 +13,20 @@ $paragraph-indent           : false !default; // true, false (default)
 $indent-var                 : 1.3em !default;
 
 /* system typefaces */
-$serif                      : Georgia, Times, SimSun,STSong, "Microsoft YaHei", serif !default;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "Microsoft YaHei",SimSun,STSong,  Arial, sans-serif !default;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace, SimSun,STSong, "Microsoft YaHei" !default;
+$serif                      : Georgia, Times, SimSun,STSong, "Microsoft YaHei",STXihei, serif !default;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "Microsoft YaHei",STXihei,SimSun,STSong,  Arial, sans-serif !default;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace, SimSun,STSong, "Microsoft YaHei",STXihei !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $serif !default;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
-$georgia                    : Georgia, SimSun,STSong, "Microsoft YaHei",serif !default;
-$times                      : Times, SimSun,STSong,"Microsoft YaHei", serif !default;
-$bodoni                     : "Bodoni MT", SimSun,STSong,"Microsoft YaHei", serif !default;
-$calisto                    : "Calisto MT", SimSun,STSong,"Microsoft YaHei", serif !default;
-$garamond                   : Garamond, SimSun,STSong,"Microsoft YaHei", serif !default;
+$georgia                    : Georgia, SimSun,STSong, "Microsoft YaHei",STXihei,serif !default;
+$times                      : Times, SimSun,STSong,"Microsoft YaHei",STXihei, serif !default;
+$bodoni                     : "Bodoni MT", SimSun,STSong,"Microsoft YaHei", STXihei,serif !default;
+$calisto                    : "Calisto MT", SimSun,STSong,"Microsoft YaHei", STXihei,serif !default;
+$garamond                   : Garamond, SimSun,STSong,"Microsoft YaHei",STXihei, serif !default;
 
 $global-font-family         : $sans-serif   !default;
 $header-font-family         : $serif   !default;
