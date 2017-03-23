@@ -194,6 +194,7 @@
 
     &.site-title {
       margin-left: 0;
+      color: $text-color;
     }
   }
 
@@ -555,17 +556,4 @@
       display: block;
     }
   }
-}
-
-@font-face {
-    font-family: "SentyTang";
-    src: url("/assets/fonts/SentyTang.eot"); /* IE9 */
-    src: url("/assets/fonts/SentyTang.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-
-    url("/assets/fonts/SentyTang.woff") format("woff"), /* chrome、firefox */
-    url("/assets/fonts/SentyTang.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
-
-    url("/assets/fonts/SentyTang.svg#SentyTang") format("svg"); /* iOS 4.1- */
-    font-style: normal;
-    font-weight: normal;
 }
