@@ -18,11 +18,12 @@ tags:
 ## 上周完成情况
 
 
- - 3月20日 周一 哑铃家庭胸部塑形 哑铃家庭背部塑形 上肢拉伸
+> 3月20日 周一 哑铃家庭胸部塑形 哑铃家庭背部塑形 上肢拉伸
 
 偷懒没练 挪到了周日
 
- - 3月21日 周二 ~~慢跑30分钟~~
+> 3月21日 周二 ~~慢跑30分钟~~
+
  <figure class="half">
 	<a href="https://68.media.tumblr.com/b70cfff2058d161e50cac5432141650a/tumblr_on738nxUmK1w1lq37o1_1280.png">
   <img src="https://68.media.tumblr.com/b70cfff2058d161e50cac5432141650a/tumblr_on738nxUmK1w1lq37o1_1280.png">
