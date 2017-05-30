@@ -9,9 +9,13 @@
   {% if author.avatar %}
     <div class="author__avatar">
       {% if author.avatar contains "://" %}
+      <a href="{{ '/' | absolute_url }}">
         <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
+      </a>
       {% else %}
+      <a href="{{ '/' | absolute_url }}">
         <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
+      </a>
       {% endif %}
     </div>
   {% endif %}
